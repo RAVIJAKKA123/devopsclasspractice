@@ -1,0 +1,5 @@
+s is this 3rd file ok 
+everything isfine 
+thisis our feature branch 
+everything is ok
+
